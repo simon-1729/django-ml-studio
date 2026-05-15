@@ -1,5 +1,9 @@
 # Image Classifier
 
+### Known Architectural Limitation — Synchronous Model Training
+
+Currently, model training executes synchronously within the HTTP request/response cycle. In a production environment this would cause requests to time out for any reasonably sized dataset. The solution is to decouple training from the web layer by queuing training jobs with Celery and a message broker such as Redis, allowing training to run asynchronously as a background task. This would also require a polling or WebSocket mechanism to notify the user when training completes.
+
 ### Key Features
 
 * Lifecycle management:
