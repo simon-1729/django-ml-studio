@@ -163,5 +163,4 @@ cython_debug/
 .idea
 
 # binary_cnn
-binary_cnn/migrations/
 images/
