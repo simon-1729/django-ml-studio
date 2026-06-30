@@ -18,10 +18,9 @@ Upload a labelled zip file (e.g. folders named cats/ and dogs/) and the platform
 
 
 ---
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/298627e8-ca04-4f88-9b7d-67c3d38dbdfa" controls="controls" autoplay="autoplay" loop="loop" muted="muted" width="30%">
-  </video>
-</p>
+
+
+
 
 **Roadmap**
 
