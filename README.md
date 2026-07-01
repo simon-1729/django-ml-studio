@@ -9,12 +9,8 @@
 Upload a labelled zip file (e.g. folders named cats/ and dogs/) and the platform infers class labels automatically. Users then instantiate a CNN from a template, configure hyperparameters, and launch training from the browser. On completion, a performance dashboard surfaces key metrics and accuracy/loss curves. Users can then upload an unseen image for classification.
 
 
-
-
-
 ---
 
-![](docs/django-ml-home.jpg)
 
 ### Watch the Demo
 
