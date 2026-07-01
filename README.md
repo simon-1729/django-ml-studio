@@ -18,7 +18,7 @@ Upload a labelled zip file (e.g. folders named cats/ and dogs/) and the platform
 
 ### Watch the Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/67p38EqBG5I/hqdefault.jpg)](https://www.youtube.com/watch?v=67p38EqBG5I)
+[![Watch the Demo](https://img.youtube.com/vi/Nr9PMzBLbus/hqdefault.jpg)](https://www.youtube.com/watch?v=Nr9PMzBLbus)
 
 
 ---
