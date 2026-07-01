@@ -15,7 +15,8 @@ Upload a labelled zip file (e.g. folders named cats/ and dogs/) and the platform
 ---
 
 ![](docs/django-ml-home.jpg)
-![](docs/dashboards.jpg)
+
+[![Watch the Demo](https://img.youtube.com/vi/67p38EqBG5I/maxresdefault.jpg)](https://www.youtube.com/watch?v=https://youtu.be/67p38EqBG5I)
 
 
 ---
